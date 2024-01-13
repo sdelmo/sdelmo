@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sdelmo
 - 👀 I’m passionate about building products people love and interested in Data Science / Software Engineering
-- 🌱 I currently do data analysis and engineering as my 9-5, and I'm a technical founder at Concord Studios in my 5-9
-- 💞️ I’m looking to collaborate on any open source projects, particularly those dedicated to social responsibility
+- 🌱 I work in Data 9-5, and work on pet tech projects 5-9
+- 💞️ I’m looking to collaborate on any open source projects, particularly those that make the world a little bit better
 - 📫 How to reach me... - sebastiansdelgado@gmail.com
 
 <!---
